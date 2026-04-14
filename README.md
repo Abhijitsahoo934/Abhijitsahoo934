@@ -1,5 +1,18 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>I am a Computer Science student and aspiring entrepreneur with a clear vision — to build impactful digital products and achieve financial independence.<br><br>I am currently focused on mastering **full-stack web development (MERN stack)**, while actively building real-world projects, participating in hackathons, and developing innovative solutions such as AI-powered platforms and startup ideas like *FluentMitra*.<br><br>I strongly believe in **learning by building** — turning ideas into practical applications rather than just consuming theory.<br><br>---<br><br>## 💼 What I Do<br><br>* 💻 Build modern, scalable web applications<br>* 🚀 Work on real-world projects and hackathon solutions<br>* 📊 Explore **stock market and crypto investing** to develop multiple income streams<br>* 🎯 Continuously improve my technical and communication skills<br><br>---<br><br>## 🔭 Current Focus<br><br>Developing **AI-powered platforms, portfolio projects, and problem-solving applications** that create real impact and strengthen my development skills.<br><br>---<br><br>## 🤝 Open to Collaborate<br><br>I am open to collaborating on:<br><br>* Innovative **web development projects**<br>* Startup ideas and MVP building<br>* Hackathon teams focused on solving real-world problems<br><br>---<br><br>## 🧠 Seeking Growth In<br><br>* Advanced **MERN stack development**<br>* Building **real-time systems & scalable applications**<br>* Writing clean, production-level code<br><br>---<br><br>## 🌱 Currently Learning<br><br>* **JavaScript, React, Node.js, Backend Development**<br>* Improving **communication skills and spoken English**<br><br>---<br><br>## 💬 Ask Me About<br><br>* Web development and project building<br>* Getting started in tech as a beginner<br>* Hackathons and practical learning strategies<br><br>---<br><br>## ⚡ Mindset<br><br>> “I started with limited resources, but with consistency, discipline, and vision — I am building a future without limits.”<br>
+<h1 align="center">Hi 👋, I'm Abhijit Sahoo</h1>
+<h3 align="center">🚀 Full Stack Developer | GenAI Explorer | Building the Future with Code</h3>
+
+<p align="center">
+  💡 Passionate about AI, Startups & Scalable Web Applications <br>
+  📈 Building in public | Learning, Creating & Growing every day
+</p>
+
+## 👨‍💻 About Me
+
+🔭 Currently building **Full Stack & AI-powered Projects**  
+🤝 Open to collaborate on **Web Dev & AI Projects**  
+🌱 Learning **MERN Stack, GenAI & System Design**  
+💬 Ask me about **React, Node.js, Tailwind & Basics of AI**  
+⚡ Fun fact: I believe consistency beats talent 🚀
 
 
 ## 🌐 Socials:
