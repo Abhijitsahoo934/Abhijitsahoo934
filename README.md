@@ -14,8 +14,7 @@
 ⚡ Fun fact: I believe consistency beats talent 🚀
 
 
-## 🌐 Socials:
-## 🚀 Let's Connect & Build Together
+## 🌐Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijitsahoo505">
