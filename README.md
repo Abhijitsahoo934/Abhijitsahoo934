@@ -11,7 +11,7 @@
 🤝 Open to collaborate on **Web Dev & AI Projects**  
 🌱 Learning **MERN Stack, GenAI & System Design**  
 💬 Ask me about **React, Node.js, Tailwind & Basics of AI**  
-⚡ Fun fact: I believe consistency beats talent 🚀
+⚡ Fun fact: I believe consistency beats talen 🚀
 
 
 ## 🌐Connect With Me
